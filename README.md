@@ -1,29 +1,9 @@
-# project
+# Description
 
-## Project setup
-```
-yarn install
-```
+Easy code demon. The app is used to compare products price with the company competitors.
+Since the confidentiality of data, this demo is only for code display or boilerplate.
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+## Build with
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+Vuejs, Typescript and Vuex, Vuetify.
 
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
