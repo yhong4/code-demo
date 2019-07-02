@@ -12,7 +12,7 @@ import { GetAllCompetitorTypesRequest,
     } from '../typings/pricecomparison_pb';
 
  
-const host:string = "http://10.0.0.247:8000";
+const host:string = "";
 
 const actions: ActionTree<any, any> = {
     initData({dispatch}){
