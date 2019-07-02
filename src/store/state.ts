@@ -33,7 +33,7 @@ export let GlobalState:any = {
     productComparisonData:[],
     isTableDataLoading: false,
 
-    host:"http://10.0.0.247:8000"
+    host:""
 }
 
 
